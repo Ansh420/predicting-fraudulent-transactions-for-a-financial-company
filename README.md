@@ -9,7 +9,7 @@ We developed a robust fraud detection model for a financial company using XGBoos
 ## Describe your fraud detection model in elaboration.
 **Fraud Detection Model contains following steps**:
 
-- Loading of dataset and Explore it
+- Loading of dataset and Explore it.
 - Checking the Distribution of transaction datatype
 - Checking for the need of data cleaning and preprocessing
 - **statistical Analysis of Data**

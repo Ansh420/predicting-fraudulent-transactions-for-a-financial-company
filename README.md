@@ -33,7 +33,7 @@ We developed a robust fraud detection model for a financial company using XGBoos
 - **'Transfer'** - Uninformed transfers mode have found to be modes through which fraud takes place.
 ## What kind of prevention should be adopted while company update its infrastructure?
 - Can implement multiple account to distribute the huge balance.
-- Sperate account for online transactions.
+- Sperate account for online transactions. 
 - Special mode for cash out transactions.
 - Special regestering of account users for transfer modes.
 ## Demonstrate the performance of the model by using best set of tools

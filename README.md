@@ -24,9 +24,9 @@ We developed a robust fraud detection model for a financial company using XGBoos
 ## Do these factors make sense? If yes, How? If not, How not?
 **Yes, these factors absolutely makes sense**.
 
-- **'isFlaggedFraud'** - column which marks transaction as a fraud or not
+- **'isFlaggedFraud'** - column which marks transaction as a fraud or not.
 
-- **'oldbalanceOrg'** - indicates that customer/individual with more balance in his account is prone to fraud transaction
+- **'oldbalanceOrg'** - indicates that customer/individual with more balance in his account is prone to fraud transaction.
 
 - **'Cash-Out'** - it refers to convert non-cash asset into Cash. Thus online selling of large goods etc is more prone to frauds.
 

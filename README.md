@@ -1,9 +1,9 @@
 # predicting-fraudulent-transactions-for-a-financial-company
 We developed a robust fraud detection model for a financial company using XGBoost, leveraging its superior accuracy and ability to handle imbalanced datasets, to predict fraudulent transactions and enhance the company's security measures.
 ## Data cleaning including missing values, outliers and multi-collinearity.
- - There is **no null values** in any columns
- - Most of the datapoints are **not correlated**
- - Oldbalance is correlated with newbalance of person who intitiated transaction
+ - There is **no null values** in any columns.
+ - Most of the datapoints are **not correlated**.
+ - Oldbalance is correlated with newbalance of person who intitiated transaction.
  - newbalanceDest and oldbalanceDest is also correlated.
 
 ## Describe your fraud detection model in elaboration.
